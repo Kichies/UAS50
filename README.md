@@ -119,20 +119,27 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+https://docs.google.com/document/d/1jNLqYiDremkpicRJjpn58yCUc1hL3JbObP98jGUqTOM/edit?usp=sharing
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+https://docs.google.com/document/d/1jNLqYiDremkpicRJjpn58yCUc1hL3JbObP98jGUqTOM/edit?usp=sharing
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+https://docs.google.com/document/d/1jNLqYiDremkpicRJjpn58yCUc1hL3JbObP98jGUqTOM/edit?usp=sharing
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+https://roadmap.sh/cyber-security
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
+https://docs.google.com/document/d/1jNLqYiDremkpicRJjpn58yCUc1hL3JbObP98jGUqTOM/edit?usp=sharing
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+https://docs.google.com/document/d/1jNLqYiDremkpicRJjpn58yCUc1hL3JbObP98jGUqTOM/edit?usp=sharing
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/Kichies
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
