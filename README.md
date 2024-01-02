@@ -8,13 +8,16 @@
 <img width="601" alt="Screenshot 2024-01-02 at 19 17 42" src="https://github.com/Kichies/UAS50/assets/144405282/deca2404-cf88-4892-a93b-5533aa472b1f">
 
 ##4. Mencoba Console Sistem Operasi
+
 <img width="601" alt="Screenshot 2024-01-02 at 19 20 03" src="https://github.com/Kichies/UAS50/assets/144405282/63abd441-401b-45a2-969e-4d2c6b379972">
 
 ##5. Windows CMD [v] ⭐⭐⭐⭐
+
 <img width="601" alt="Screenshot 2024-01-02 at 19 21 28" src="https://github.com/Kichies/UAS50/assets/144405282/74ede5c1-d9ba-4117-b564-c13c96b1f31b">
 
 ##6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
-<img width="1439" alt="Screenshot 2024-01-02 at 16 18 31" src="https://github.com/Kichies/UAS50/assets/144405282/082e6ebf-d9a4-4783-a9ab-076b8d1951d8">
+
+<img width="601" alt="Screenshot 2024-01-02 at 16 18 31" src="https://github.com/Kichies/UAS50/assets/144405282/082e6ebf-d9a4-4783-a9ab-076b8d1951d8">
 
 ##7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
@@ -24,6 +27,7 @@
 Jawaban [1](https://scratch.mit.edu/projects/944625019)
 
 ##9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
 
 ##10. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
@@ -56,10 +60,7 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 ##18. Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://kichies.github.io/kichie.github.io/
 
 ##19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -69,6 +70,7 @@ Referensi []
 
 ##21. Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
+https://kichies.github.io/kichie.github.io/
 
 ##22. Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
