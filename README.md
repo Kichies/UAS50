@@ -18,7 +18,7 @@
 
 ##7. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+[1](https://lucid.app/lucidchart/7c28407b-de8f-4341-b394-9fb3ef106188/edit?viewport_loc=-692%2C98%2C3279%2C1664%2C0_0&invitationId=inv_f94c6a92-625d-45e2-9bcd-2a364fadcdd4)
 
 ##8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
