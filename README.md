@@ -115,6 +115,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ##41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 ##42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+<img width="1439" alt="Screenshot 2024-01-02 at 19 08 43" src="https://github.com/Kichies/UAS50/assets/144405282/8f6f7051-afcf-495b-88e0-8b59dee6c5af">
 
 ##43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
