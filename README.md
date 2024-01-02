@@ -8,10 +8,10 @@
 <img width="601" alt="Screenshot 2024-01-02 at 19 17 42" src="https://github.com/Kichies/UAS50/assets/144405282/deca2404-cf88-4892-a93b-5533aa472b1f">
 
 ##4. Mencoba Console Sistem Operasi
-[1](https://docs.google.com/document/d/1w8cJgLEzplbfGqDUJxwlxXh3rmCrZfCm2_JnWe5ZhEo/edit)
+<img width="601" alt="Screenshot 2024-01-02 at 19 20 03" src="https://github.com/Kichies/UAS50/assets/144405282/63abd441-401b-45a2-969e-4d2c6b379972">
 
 ##5. Windows CMD [v] ⭐⭐⭐⭐
-[1](https://docs.google.com/document/d/1w8cJgLEzplbfGqDUJxwlxXh3rmCrZfCm2_JnWe5ZhEo/edit)
+<img width="601" alt="Screenshot 2024-01-02 at 19 21 28" src="https://github.com/Kichies/UAS50/assets/144405282/74ede5c1-d9ba-4117-b564-c13c96b1f31b">
 
 ##6. Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 <img width="1439" alt="Screenshot 2024-01-02 at 16 18 31" src="https://github.com/Kichies/UAS50/assets/144405282/082e6ebf-d9a4-4783-a9ab-076b8d1951d8">
