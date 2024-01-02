@@ -5,7 +5,7 @@
 ##2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ##3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
-[1](https://docs.google.com/document/d/1w8cJgLEzplbfGqDUJxwlxXh3rmCrZfCm2_JnWe5ZhEo/edit)
+<img width="1439" alt="Screenshot 2024-01-02 at 16 18 31" src="https://github.com/Kichies/UAS50/assets/144405282/082e6ebf-d9a4-4783-a9ab-076b8d1951d8">
 
 ##4. Mencoba Console Sistem Operasi
 [1](https://docs.google.com/document/d/1w8cJgLEzplbfGqDUJxwlxXh3rmCrZfCm2_JnWe5ZhEo/edit)
@@ -21,7 +21,6 @@
 [1](https://lucid.app/lucidchart/7c28407b-de8f-4341-b394-9fb3ef106188/edit?viewport_loc=-692%2C98%2C3279%2C1664%2C0_0&invitationId=inv_f94c6a92-625d-45e2-9bcd-2a364fadcdd4)
 
 ##8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
 Jawaban [1](https://scratch.mit.edu/projects/944625019)
 
 ##9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
