@@ -145,6 +145,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 https://roadmap.sh/cyber-security
 
+<img width="1440" alt="Screenshot 2024-01-04 at 17 42 18" src="https://github.com/Kichies/UAS50/assets/144405282/20669d4d-803b-4d64-a1c1-226172f182b4">
+
+<img width="1440" alt="Screenshot 2024-01-04 at 17 43 03" src="https://github.com/Kichies/UAS50/assets/144405282/ceac388c-0c60-4b87-b2cc-a51caae210ff">
+
 ## 50. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
 <img width="604" alt="Screenshot 2024-01-02 at 21 33 33" src="https://github.com/Kichies/UAS50/assets/144405282/d32377be-3c18-4960-839b-0135b90ce00d">
@@ -156,6 +160,8 @@ https://roadmap.sh/cyber-security
 ## 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 https://github.com/Kichies
+
+<img width="1440" alt="Screenshot 2024-01-04 at 17 40 13" src="https://github.com/Kichies/UAS50/assets/144405282/cf493516-3b1e-4659-980a-3846257a528d">
 
 ## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
