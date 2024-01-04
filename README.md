@@ -70,6 +70,10 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 https://kichies.github.io/kichie.github.io/
 
+<img width="1440" alt="Screenshot 2024-01-04 at 18 18 14" src="https://github.com/Kichies/UAS50/assets/144405282/32e93153-8ac1-4e88-8d00-e3a20cf877a5">
+<img width="1440" alt="Screenshot 2024-01-04 at 18 19 15" src="https://github.com/Kichies/UAS50/assets/144405282/dbd58321-6d5f-483c-8d5f-3e361fe1efcc">
+<img width="1440" alt="Screenshot 2024-01-04 at 18 18 42" src="https://github.com/Kichies/UAS50/assets/144405282/c5e76919-a6c1-493f-acdf-5c06417080f0">
+
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
 Referensi []
