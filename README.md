@@ -5,6 +5,9 @@
 ## 2. Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## 3. Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
+https://colab.research.google.com/drive/1GgkKaCf8RD9iObdSuXUmO2iN-9Xsozb-?authuser=3
+
 <img width="601" alt="Screenshot 2024-01-02 at 19 17 42" src="https://github.com/Kichies/UAS50/assets/144405282/deca2404-cf88-4892-a93b-5533aa472b1f">
 
 ## 4. Mencoba Console Sistem Operasi
@@ -154,6 +157,8 @@ https://roadmap.sh/cyber-security
 <img width="604" alt="Screenshot 2024-01-02 at 21 33 33" src="https://github.com/Kichies/UAS50/assets/144405282/d32377be-3c18-4960-839b-0135b90ce00d">
 
 ## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
+
+https://www.linkedin.com/in/kichie-s-00344b2a5/
 
 <img width="604" alt="Screenshot 2024-01-02 at 21 31 46" src="https://github.com/Kichies/UAS50/assets/144405282/5acb07f6-de28-4b27-b604-029aa35ca7c7">
 
