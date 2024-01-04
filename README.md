@@ -26,13 +26,13 @@ https://colab.research.google.com/drive/1GgkKaCf8RD9iObdSuXUmO2iN-9Xsozb-?authus
 
 https://lucid.app/lucidchart/7c28407b-de8f-4341-b394-9fb3ef106188/edit?viewport_loc=-692%2C98%2C3279%2C1664%2C0_0&invitationId=inv_f94c6a92-625d-45e2-9bcd-2a364fadcdd4
 
-<img width="614" alt="Screenshot 2024-01-04 at 17 27 34" src="https://github.com/Kichies/UAS50/assets/144405282/105e8e8f-72a4-440e-a5bd-337635c5d26c">
+<img width="601" alt="Screenshot 2024-01-04 at 17 27 34" src="https://github.com/Kichies/UAS50/assets/144405282/105e8e8f-72a4-440e-a5bd-337635c5d26c">
 
 ## 8. Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
 https://scratch.mit.edu/projects/944625019
 
-<img width="1439" alt="Screenshot 2024-01-04 at 17 31 50" src="https://github.com/Kichies/UAS50/assets/144405282/6fc32657-156a-4d25-87f3-6c6e0afa907d">
+<img width="601" alt="Screenshot 2024-01-04 at 17 31 50" src="https://github.com/Kichies/UAS50/assets/144405282/6fc32657-156a-4d25-87f3-6c6e0afa907d">
 
 ## 9. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 
@@ -70,9 +70,9 @@ Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_doma
 
 https://kichies.github.io/kichie.github.io/
 
-<img width="1440" alt="Screenshot 2024-01-04 at 18 18 14" src="https://github.com/Kichies/UAS50/assets/144405282/32e93153-8ac1-4e88-8d00-e3a20cf877a5">
-<img width="1440" alt="Screenshot 2024-01-04 at 18 19 15" src="https://github.com/Kichies/UAS50/assets/144405282/dbd58321-6d5f-483c-8d5f-3e361fe1efcc">
-<img width="1440" alt="Screenshot 2024-01-04 at 18 18 42" src="https://github.com/Kichies/UAS50/assets/144405282/c5e76919-a6c1-493f-acdf-5c06417080f0">
+<img width="601" alt="Screenshot 2024-01-04 at 18 18 14" src="https://github.com/Kichies/UAS50/assets/144405282/32e93153-8ac1-4e88-8d00-e3a20cf877a5">
+<img width="601" alt="Screenshot 2024-01-04 at 18 19 15" src="https://github.com/Kichies/UAS50/assets/144405282/dbd58321-6d5f-483c-8d5f-3e361fe1efcc">
+<img width="601" alt="Screenshot 2024-01-04 at 18 18 42" src="https://github.com/Kichies/UAS50/assets/144405282/c5e76919-a6c1-493f-acdf-5c06417080f0">
 
 ## 19. Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
@@ -128,7 +128,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## 41. Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
 ## 42. Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
-<img width="1439" alt="Screenshot 2024-01-02 at 19 08 43" src="https://github.com/Kichies/UAS50/assets/144405282/8f6f7051-afcf-495b-88e0-8b59dee6c5af">
+<img width="601" alt="Screenshot 2024-01-02 at 19 08 43" src="https://github.com/Kichies/UAS50/assets/144405282/8f6f7051-afcf-495b-88e0-8b59dee6c5af">
 
 ## 43. Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
@@ -140,41 +140,41 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 46. Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
-<img width="604" alt="Screenshot 2024-01-02 at 21 35 43" src="https://github.com/Kichies/UAS50/assets/144405282/246b9dc7-74f0-4390-967d-e503408014b8">
+<img width="601" alt="Screenshot 2024-01-02 at 21 35 43" src="https://github.com/Kichies/UAS50/assets/144405282/246b9dc7-74f0-4390-967d-e503408014b8">
 
 ## 47. Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 ## 48. Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
-<img width="604" alt="Screenshot 2024-01-02 at 21 34 45" src="https://github.com/Kichies/UAS50/assets/144405282/b40825c4-55f9-40c1-9d3f-d8e49058f2a1">
+<img width="601" alt="Screenshot 2024-01-02 at 21 34 45" src="https://github.com/Kichies/UAS50/assets/144405282/b40825c4-55f9-40c1-9d3f-d8e49058f2a1">
 
 ## 49. Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 https://roadmap.sh/cyber-security
 
-<img width="1440" alt="Screenshot 2024-01-04 at 17 42 18" src="https://github.com/Kichies/UAS50/assets/144405282/20669d4d-803b-4d64-a1c1-226172f182b4">
+<img width="601" alt="Screenshot 2024-01-04 at 17 42 18" src="https://github.com/Kichies/UAS50/assets/144405282/20669d4d-803b-4d64-a1c1-226172f182b4">
 
-<img width="1440" alt="Screenshot 2024-01-04 at 17 43 03" src="https://github.com/Kichies/UAS50/assets/144405282/ceac388c-0c60-4b87-b2cc-a51caae210ff">
+<img width="601" alt="Screenshot 2024-01-04 at 17 43 03" src="https://github.com/Kichies/UAS50/assets/144405282/ceac388c-0c60-4b87-b2cc-a51caae210ff">
 
 ## 50. Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
-<img width="604" alt="Screenshot 2024-01-02 at 21 33 33" src="https://github.com/Kichies/UAS50/assets/144405282/d32377be-3c18-4960-839b-0135b90ce00d">
+<img width="601" alt="Screenshot 2024-01-02 at 21 33 33" src="https://github.com/Kichies/UAS50/assets/144405282/d32377be-3c18-4960-839b-0135b90ce00d">
 
 ## 51. Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 https://www.linkedin.com/in/kichie-s-00344b2a5/
 
-<img width="604" alt="Screenshot 2024-01-02 at 21 31 46" src="https://github.com/Kichies/UAS50/assets/144405282/5acb07f6-de28-4b27-b604-029aa35ca7c7">
+<img width="601" alt="Screenshot 2024-01-02 at 21 31 46" src="https://github.com/Kichies/UAS50/assets/144405282/5acb07f6-de28-4b27-b604-029aa35ca7c7">
 
 ## 52. Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 https://github.com/Kichies
 
-<img width="1440" alt="Screenshot 2024-01-04 at 17 40 13" src="https://github.com/Kichies/UAS50/assets/144405282/cf493516-3b1e-4659-980a-3846257a528d">
+<img width="601" alt="Screenshot 2024-01-04 at 17 40 13" src="https://github.com/Kichies/UAS50/assets/144405282/cf493516-3b1e-4659-980a-3846257a528d">
 
 ## 53. Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
-<img width="1103" alt="Screenshot 2024-01-02 at 21 39 24" src="https://github.com/Kichies/UAS50/assets/144405282/06d72f25-82dd-4755-954f-48f22bf48754">
+<img width="601" alt="Screenshot 2024-01-02 at 21 39 24" src="https://github.com/Kichies/UAS50/assets/144405282/06d72f25-82dd-4755-954f-48f22bf48754">
 
 ## 54. Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
